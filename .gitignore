@@ -1,0 +1,105 @@
+# Laravel Backend
+real-estate-api/.phpunit.cache
+real-estate-api/node_modules
+real-estate-api/public/build
+real-estate-api/public/hot
+real-estate-api/public/storage
+real-estate-api/storage/*.key
+real-estate-api/storage/pail
+real-estate-api/vendor
+real-estate-api/.env
+real-estate-api/.env.backup
+real-estate-api/.env.production
+real-estate-api/.phpactor.json
+real-estate-api/.phpunit.result.cache
+real-estate-api/Homestead.json
+real-estate-api/Homestead.yaml
+real-estate-api/auth.json
+real-estate-api/.fleet
+real-estate-api/.idea
+real-estate-api/.nova
+real-estate-api/.vscode
+real-estate-api/.zed
+
+# React Frontend
+real-estate-frontend/node_modules
+real-estate-frontend/.pnp
+real-estate-frontend/.pnp.js
+real-estate-frontend/coverage
+real-estate-frontend/build
+real-estate-frontend/.env
+real-estate-frontend/.env.local
+real-estate-frontend/.env.development.local
+real-estate-frontend/.env.test.local
+real-estate-frontend/.env.production.local
+real-estate-frontend/.fleet
+real-estate-frontend/.idea
+real-estate-frontend/.nova
+real-estate-frontend/.vscode
+real-estate-frontend/.zed
+
+# Common Files
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Laravel Specific
+real-estate-api/bootstrap/cache/*.php
+real-estate-api/storage/logs/*.log
+real-estate-api/storage/framework/cache/data/*.php
+real-estate-api/storage/framework/sessions/*.php
+real-estate-api/storage/framework/views/*.php
+real-estate-api/storage/framework/testing/*.php
+
+# Laravel 5.7 specific
+real-estate-api/public/hot
+
+# Laravel 6 specific
+real-estate-api/phpunit-results.xml
+
+# Laravel 8 specific
+real-estate-api/storage/logs/laravel.log
+
+# Laravel 9 specific
+real-estate-api/storage/logs/laravel.log
+
+# Laravel Nova
+real-estate-api/nova/
+
+# Laravel Passport
+real-estate-api/storage/oauth-public.key
+real-estate-api/storage/oauth-private.key
+
+# Laravel Sails
+real-estate-api/sail
+
+# Laravel Mix
+real-estate-api/.mix
+
+# Laravel Horizon
+real-estate-api/horizon
+
+# Laravel Envoy
+real-estate-api/.envoy
+
+# Laravel Echo
+real-estate-api/.env.echo
+
+# Laravel Valet
+real-estate-api/valet
+
+# Laravel Cashier
+real-estate-api/.env.cashier
+
+# Laravel Nova
+real-estate-api/.env.nova
+
+# Laravel Horizon
+real-estate-api/.env.horizon
+
+# Laravel Envoy
+real-estate-api/.envoy
+
+# Laravel Mix
+real-estate-api/.mix
